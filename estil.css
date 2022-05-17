@@ -1,0 +1,357 @@
+.teclado{
+    margin-left: 560px;
+    margin-top: 650px;
+    height: 288px;
+    width: 683px;
+}
+
+img{
+    position:absolute !important;
+}
+
+.notas{
+    border-radius: 8px;
+    margin-left: 440px;
+}
+
+#texto{
+    z-index: 5;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 70px;
+    width: 700px;
+    font-size: 12px;
+}
+
+#letras{
+    z-index: 5;
+    position: absolute;
+}
+
+/*Primera fila*/
+#uno{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 630px;
+    margin-top: 715px;
+}
+#dos{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 675px;
+    margin-top: 715px;
+}
+#tres{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 720px;
+    margin-top: 715px;
+}
+#cuatro{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 765px;
+    margin-top: 715px;
+}
+#cinco{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 810px;
+    margin-top: 715px;
+}
+#seis{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 855px;
+    margin-top: 715px;
+}
+#siete{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 900px;
+    margin-top: 715px;
+}
+#ocho{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 945px;
+    margin-top: 715px;
+}
+#nueve{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 990px;
+    margin-top: 715px;
+}
+#cero{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 1035px;
+    margin-top: 715px;
+}
+/*Segunda fila*/
+#q{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 652px;
+    margin-top: 760px;
+}
+#w{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 697px;
+    margin-top: 760px;
+}
+#e{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 742px;
+    margin-top: 760px;
+}
+#r{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 787px;
+    margin-top: 760px;
+}
+#t{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 832px;
+    margin-top: 760px;
+}
+#y{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 877px;
+    margin-top: 760px;
+}
+#u{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 922px;
+    margin-top: 760px;
+}
+#i{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 967px;
+    margin-top: 760px;
+}
+#o{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 1012px;
+    margin-top: 760px;
+}
+#p{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 1057px;
+    margin-top: 760px;
+}
+/*Tercera fila*/
+#a{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 663px;
+    margin-top: 805px;
+}
+#s{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 708px;
+    margin-top: 805px;
+}
+#d{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 753px;
+    margin-top: 805px;
+}
+#f{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 798px;
+    margin-top: 805px;
+}
+#g{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 843px;
+    margin-top: 805px;
+}
+#h{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 888px;
+    margin-top: 805px;
+}
+#j{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 933px;
+    margin-top: 805px;
+}
+#k{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 978px;
+    margin-top: 805px;
+}
+#l{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 1023px;
+    margin-top: 805px;
+}
+#ñ{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 1068px;
+    margin-top: 805px;
+}
+/*Cuarta fila*/
+#z{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 685px;
+    margin-top: 850px;
+}
+#x{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 730px;
+    margin-top: 850px;
+}
+#c{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 775px;
+    margin-top: 850px;
+}
+#v{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 820px;
+    margin-top: 850px;
+}
+#b{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 865px;
+    margin-top: 850px;
+}
+#n{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 910px;
+    margin-top: 850px;
+}
+#m{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    margin-left: 955px;
+    margin-top: 850px;
+}
+/*Enter*/
+#enter{
+    z-index: 5;
+    position: absolute;
+    height: 70px;
+    width: 30px;
+    margin-left: 1195px;
+    margin-top: 760px;
+}
+/*Espacio*/
+#espacio{
+    z-index: 5;
+    position: absolute;
+    height: 35px;
+    width: 210px;
+    margin-left: 775px;
+    margin-top: 890px;
+}
+/*Borrar*/
+#borrar{
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    width: 55px;
+    margin-left: 1170px;
+    margin-top: 715px;
+}
