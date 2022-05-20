@@ -565,157 +565,157 @@ img{
     #a{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 663px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 205px;
+        margin-top: 1133px;
     }
     #s{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 708px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 296px;
+        margin-top: 1133px;
     }
     #d{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 753px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 387px;
+        margin-top: 1133px;
     }
     #f{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 798px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 478px;
+        margin-top: 1133px;
     }
     #g{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 843px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 569px;
+        margin-top: 1133px;
     }
     #h{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 888px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 660px;
+        margin-top: 1133px;
     }
     #j{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 933px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 751px;
+        margin-top: 1133px;
     }
     #k{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 978px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 845px;
+        margin-top: 1133px;
     }
     #l{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 1023px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 935px;
+        margin-top: 1133px;
     }
     #ñ{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 1068px;
-        margin-top: 805px;
+        height: 65px;
+        width: 65px;
+        margin-left: 1025px;
+        margin-top: 1133px;
     }
     /*Cuarta fila*/
     #z{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 685px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 250px;
+        margin-top: 1223px;
     }
     #x{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 730px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 342px;
+        margin-top: 1223px;
     }
     #c{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 775px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 433px;
+        margin-top: 1223px;
     }
     #v{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 820px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 525px;
+        margin-top: 1223px;
     }
     #b{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 865px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 616px;
+        margin-top: 1223px;
     }
     #n{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 910px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 707px;
+        margin-top: 1223px;
     }
     #m{
         z-index: 5;
         position: absolute;
-        height: 30px;
-        width: 30px;
-        margin-left: 955px;
-        margin-top: 850px;
+        height: 65px;
+        width: 65px;
+        margin-left: 798px;
+        margin-top: 1223px;
     }
     /*Enter*/
     #enter{
         z-index: 5;
         position: absolute;
-        height: 70px;
-        width: 30px;
-        margin-left: 1195px;
-        margin-top: 760px;
+        height: 130px;
+        width: 70px;
+        margin-left: 1290px;
+        margin-top: 1050px;
     }
     /*Espacio*/
     #espacio{
         z-index: 5;
         position: absolute;
-        height: 35px;
-        width: 210px;
-        margin-left: 775px;
-        margin-top: 890px;
+        height: 70px;
+        width: 430px;
+        margin-left: 440px;
+        margin-top: 1310px;
     }
     /*Borrar*/
     #borrar{
